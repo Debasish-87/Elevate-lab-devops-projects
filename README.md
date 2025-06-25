@@ -78,7 +78,9 @@ Each project includes automation scripts, deployment manifests, documentation, s
 ## 📄 Project Report
 
 The combined 2-page PDF report is included in this repository and available for download here:  
-**📎 [`ElevateLab_Report_Debasish_Mohanty.pdf`](./ElevateLab_Report_Debasish_Mohanty.pdf)**
+
+**📎 [ElevateLab_Report_Debasish_Mohanty.pdf](https://github.com/user-attachments/files/20904190/ElevateLab_Report_Debasish_Mohanty.pdf)
+
 
 ---
 
