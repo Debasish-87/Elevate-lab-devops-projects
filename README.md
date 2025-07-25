@@ -7,6 +7,11 @@
 
 ---
 
+## Certificate -
+
+<img width="1003" height="706" alt="Screenshot 2025-07-25 192628" src="https://github.com/user-attachments/assets/b7dd6124-7d3b-414e-b7d1-fdfdd99c08f6" />
+
+
 ## 📝 Overview
 
 This repository contains the deliverables of my internship with **Elevate Lab**, focused on hands-on DevOps projects. I worked on multiple real-world use cases to deepen my understanding of CI/CD, observability, cloud automation, GitOps, and canary deployments.
